@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/topics?createDatabaseIfNotExist=true
     username: root
-    password: root
+    password: Trymeagain@12
 
   jpa:
     hibernate:
